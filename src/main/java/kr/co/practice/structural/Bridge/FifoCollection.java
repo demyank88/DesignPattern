@@ -1,4 +1,4 @@
-package kr.co.practice.solid.Bridge;
+package kr.co.practice.structural.Bridge;
 
 //This is the abstraction. 
 //It represents a First in First Out collection

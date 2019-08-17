@@ -1,4 +1,4 @@
-package kr.co.practice.solid.Bridge;
+package kr.co.practice.structural.Bridge;
 
 //A refined abstraction.
 public class Queue<T> implements FifoCollection<T>{

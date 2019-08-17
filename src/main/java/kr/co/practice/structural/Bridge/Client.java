@@ -1,4 +1,4 @@
-package kr.co.practice.solid.Bridge;
+package kr.co.practice.structural.Bridge;
 
 public class Client {
 

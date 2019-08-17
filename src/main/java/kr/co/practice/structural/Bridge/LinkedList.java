@@ -1,4 +1,4 @@
-package kr.co.practice.solid.Bridge;
+package kr.co.practice.structural.Bridge;
 
 //This is the implementor. 
 //Note that this is also an interface

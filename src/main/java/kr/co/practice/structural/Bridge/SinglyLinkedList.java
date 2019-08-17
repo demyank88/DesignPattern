@@ -1,4 +1,4 @@
-package kr.co.practice.solid.Bridge;
+package kr.co.practice.structural.Bridge;
 
 //A concrete implementor. 
 //This implementation is a classic LinkedList using nodes
